@@ -1,0 +1,19 @@
+h1{
+color:maroon;
+margin-left:40px;
+}
+p{
+color:#ffffff;
+text-align:center;
+background:green;
+font-weight:bold;
+font-size:40;
+font-family:verdana;
+
+table {
+ border-collapse: collapse;
+}
+table, th, td {
+border: 1px solid black;
+
+}

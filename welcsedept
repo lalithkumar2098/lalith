@@ -1,0 +1,12 @@
+<body bgcolor=#aa8811>
+<center>
+<h2><u>Welcome to <font color="red">CSE</font> Dept</h2></u>
+Department of computer science has three batchees of <br> students
+<br>
+</center>
+<ol type=i>
+<li>8<sup>th</sup>SEM</li>
+<li>6<sup>th</sup>SEM</li>
+<li>4<sup>th</sup>SEM</li>
+</ol>
+</body>
